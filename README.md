@@ -14,7 +14,7 @@ Following are implemented for simulating the model:-
 * Observe the network life for by varying the different parameters.
 ## Simulation tools
 
-NS-3 is used to simulate various types of network topologies and communication across it. NS2 is another tool which is used for simulation ,however for this project NS-3 will be used. It is based on C++. The process of network involves following steps:-
+NS-2 is used to simulate various types of network topologies and communication across it. It is based on C++. The process of network involves following steps:-
 * Create nodes 
 * Attach channel with node
 * Install protocol stack
