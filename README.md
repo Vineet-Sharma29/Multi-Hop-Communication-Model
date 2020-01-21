@@ -21,7 +21,7 @@ NS-2 is used to simulate various types of network topologies and communication a
 * Assign IP address
 * Install application
 
-Final result can be visualised using NetAnim library.
+Final result can be visualised using NetAnim library. For making network topologies, NSG-2 is used.
 
 
 ## Results
