@@ -35,6 +35,8 @@ Final result can be visualised using NetAnim library.
 |16|19102|2265|
 |25|35691|9121|
 
+![Network life for a given distance against number of nodes](https://github.com/Vineet-Sharma29/Multi-Hop-Communication-Model/blob/master/docs/1.0.png)
+
 
 > Network life for a 2-cluster network for different data rates(K)
 
@@ -45,7 +47,7 @@ Final result can be visualised using NetAnim library.
 | K = 1 | 10002 |
 | K = 11 | 910 |
 
-
+![Network life for a 2-cluster network for different data rates(K)](https://github.com/Vineet-Sharma29/Multi-Hop-Communication-Model/blob/master/docs/2.png)
 
 
 
@@ -59,6 +61,7 @@ Final result can be visualised using NetAnim library.
 |N = 16|1716443|428751|210094|19102|
 |N = 25|43578304|840223|424353|35691|
 
+![Network life when number of node (N) and data rate are varied](https://github.com/Vineet-Sharma29/Multi-Hop-Communication-Model/blob/master/docs/3.0.png)
 
 ## Inference
 
